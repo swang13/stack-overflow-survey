@@ -18,7 +18,7 @@ I was interestested in using Stack Overflow data from 2017 to answer the followi
 
 1. Which counties embrace work from home most?
 2. Does Work From Home impact job satisfication?
-3. How likely is a developer to be working from home, considering the characteristics of both the employer and employee?
+3. How to find a work from home developer job?
 
 
 ## File Descriptions <a name="files"></a>
