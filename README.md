@@ -28,7 +28,7 @@ There is one iPython notebook available here to showcase work related to the abo
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the post available [here](https://medium.com/@wangshuocugb2005/want-to-become-a-work-from-home-developer-e0d1a8407193).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
