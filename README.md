@@ -14,7 +14,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation<a name="motivation"></a>
 
-I was interestested in using Stack Overflow data from 2017 to answer the following questions:
+I was interested in using Stack Overflow data from 2017 to answer the following questions:
 
 1. Which counties embrace work from home most?
 2. Does Work From Home impact job satisfication?
