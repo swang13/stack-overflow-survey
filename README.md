@@ -28,7 +28,16 @@ There is one iPython notebook available here to showcase work related to the abo
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@wangshuocugb2005/want-to-become-a-work-from-home-developer-e0d1a8407193).
+1. The top five countries with the highest proportion of work from home developers are Iran, Pakistan, Czech Republic, Ukraine, and Russian Federation.
+2. We are more than 99.9% sure that the work from home developers have better job satisfaction ratings than the ones who commute.
+3. These factors tend to lead to a work from home job:
+
+ * Jobs in Iran, Pakistan, Ukraine, etc.
+ * Part-time developers
+ * Pre-series A startup companies
+ * Developers who are more serious about work
+
+The main findings of the code can also be found at the post available [here](https://medium.com/@wangshuocugb2005/want-to-become-a-work-from-home-developer-e0d1a8407193).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
